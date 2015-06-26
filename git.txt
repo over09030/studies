@@ -1,2 +1,4 @@
-﻿Đến cả con khỉ cũng hiểu được lệnh Git
-gfhgh
+﻿git remote add origin https://github.com/over09030/studies.git
+git add namefile
+git commit -m "description"
+git push
